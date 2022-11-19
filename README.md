@@ -1,2 +1,1 @@
-# e7coding-simple
-# e7coding go 依赖
+# e7coding go 依赖仓库
